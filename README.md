@@ -34,3 +34,5 @@ Within the Source folder, we have four folfers:
 3. In the saved models folder we have h5 output files of CNN/ANN Models. Naming convention of models is FEAUTRE_CNN_EPOCH_ACCURACY.h5
 
 4. In the visualization folder we have have all visualization notebooks generated for features.
+
+Note: The preprocessing of features other than LPC are a part of model notebooks itself. We form intermediate pickle files ( w_c_dateset.pickle,wavelet.pickle etc) when we run the first model for the feature and then use these saved forms for other models of the same feature. The pickle files are huge so we did not push it to the repository. 
