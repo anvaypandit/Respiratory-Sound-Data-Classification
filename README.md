@@ -22,3 +22,9 @@ classification. The classification accuracy for SVM was found out to be 84.34% u
 combination of DB Scaled Mel Features and MFCC’s . For COPD disease classification,
 MFCC’s and demographic features were mainly used. The SVM model with
 Demographic+MFCC features gave classification accuracy of 98.54%.
+
+## Folder Structure
+
+Within the Source folder, we have four folfers:
+
+1) One which has the data preprocessing files and script.
