@@ -29,11 +29,8 @@ Within the Source folder, we have four folfers:
 
 1. One which has the data preprocessing files and script. Intermediate output files are present in csv format and LPC feature extraction script is also present.
 
+2. In the model folder we have two subfolders one for each problem we deal with. All the experimentaion notebooks are present within thiis folder. Naming convention of notebooks is FEATURE_MODEL1_MODEL2_...ipynb
 
-
-
-2. In the model folder we have two subfolders one for each problem we deal with. All the experimentaion notebooks are present within thiis folder.
-
-3. In the saved models folder we have h5 output files of CNN/ANN Models.
+3. In the saved models folder we have h5 output files of CNN/ANN Models. Naming convention of models is FEAUTRE_CNN_EPOCH_ACCURACY.h5
 
 4. In the visualization folder we have have all visualization notebooks generated for features.
