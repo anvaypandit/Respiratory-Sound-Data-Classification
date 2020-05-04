@@ -27,4 +27,7 @@ Demographic+MFCC features gave classification accuracy of 98.54%.
 
 Within the Source folder, we have four folfers:
 
-1) One which has the data preprocessing files and script.
+1. One which has the data preprocessing files and script.
+  1.1 Intermediate output files are present in csv format and LPC feature extraction script is also present.
+
+2. sfsfs
