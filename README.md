@@ -29,6 +29,9 @@ Within the Source folder, we have four folfers:
 
 1. One which has the data preprocessing files and script. Intermediate output files are present in csv format and LPC feature extraction script is also present.
 
+
+
+
 2. In the model folder we have two subfolders one for each problem we deal with. All the experimentaion notebooks are present within thiis folder.
 
 3. In the saved models folder we have h5 output files of CNN/ANN Models.
